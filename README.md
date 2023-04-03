@@ -1,7 +1,8 @@
 
 # Render programmer
 
-Currently in my free time focusing on Vulkan, GPU driven renderer development. Working as game render programmer. I was inspired by demoscene, games and UNIX to get into low level programming. Now mostly twiddling bits on GPU.
+Gfx API of choice: Vulkan.
+Working in domain of real-time computer graphics. Interested in performant low level programming, GPGPU and GPU driven render architectures. Currently working as render programmer.
 
 On non-computer related side of things I like obscure and inspiring games; weird, atmospheric and moody music; futuristic aesthetics and other interactive experiences.
 
