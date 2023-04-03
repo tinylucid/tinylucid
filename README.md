@@ -1,7 +1,7 @@
 
 # Render programmer
 
-API of choice: Vulkan.
+API of choice: Vulkan.</br>
 
 Working in domain of real-time computer graphics. Interested in performant low level programming, GPGPU and GPU driven render architectures. Currently working as render programmer.
 
