@@ -1,6 +1,5 @@
+# Rendering Engineer
 
-# Render programmer
+Currently @ Avalanche Studios, remotely from Belgrade, Serbia.</br>
 
-Currently @ Avalanche Studios Stockholm, Sweden</br>
-
-Working in a domain of real-time computer graphics. Interested in performant low level programming and GPU driven architectures.
+Working in a domain of real-time computer graphics. Interested in performant low level programming and GPU driven rendering.
